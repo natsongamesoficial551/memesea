@@ -1,0 +1,2 @@
+# memesea
+Projeto NatanSites AI
